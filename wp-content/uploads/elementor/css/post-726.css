@@ -1,0 +1,127 @@
+.elementor-726 .elementor-element.elementor-element-c1c19e0 > .elementor-container{min-height:300px;}.elementor-726 .elementor-element.elementor-element-c1c19e0:not(.elementor-motion-effects-element-type-background), .elementor-726 .elementor-element.elementor-element-c1c19e0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/bg-image-here-1.png");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-726 .elementor-element.elementor-element-c1c19e0{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-726 .elementor-element.elementor-element-c1c19e0 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-726 .elementor-element.elementor-element-de1e66d > .elementor-element-populated{padding:40px 0px 0px 0px;}.elementor-726 .elementor-element.elementor-element-27029e7{text-align:center;}.elementor-726 .elementor-element.elementor-element-27029e7 .elementor-heading-title{font-family:"Raleway", Sans-serif;font-size:35px;font-weight:800;text-transform:capitalize;line-height:40px;}:root{--page-title-display:none;}@media(max-width:1024px){.elementor-726 .elementor-element.elementor-element-de1e66d > .elementor-element-populated{padding:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-726 .elementor-element.elementor-element-de1e66d > .elementor-element-populated{padding:60px 0px 0px 0px;}.elementor-726 .elementor-element.elementor-element-27029e7 .elementor-heading-title{font-size:25px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: italic;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-BlackItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: italic;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: italic;
+	font-weight: 800;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-ExtraBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: italic;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-ExtraLightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: italic;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: italic;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-LightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: italic;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: italic;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: italic;
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://dev.step2itsol.com/women-gamers/wp-content/uploads/2023/05/Raleway-ThinItalic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
